@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sarfraz135
+- 👋 Hi, I’m Sarfraz Aslam
 - 👀 I’m interested in React js
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on React base work
